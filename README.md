@@ -8,11 +8,11 @@ Author: Siavash Saki
 
 Date: 14.12.2019
 
-The jupyter notebook containg code:\
+The jupyter notebook containg code:
 ```
  	Capstone Project Final.ipynb
 ```
-The report in PDF format:\
+The report in PDF format:
 ```
  	IBM-Data-Science-Capstone-Project.pdf
 ```
