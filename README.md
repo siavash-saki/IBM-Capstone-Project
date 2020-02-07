@@ -10,9 +10,15 @@ Date: 14.12.2019
 
 The jupyter notebook containg code:
 ```
- 	Capstone Project Final.ipynb
+ 	Notebooks/Capstone Project Final.ipynb
 ```
 The report in PDF format:
 ```
- 	IBM-Data-Science-Capstone-Project.pdf
+ 	Report/IBM-Data-Science-Capstone-Project.pdf
 ```
+Certificate:
+```
+ 	Certificate/Siavash_Saki.pdf
+```
+
+[Verify Certificate](https://www.coursera.org/verify/professional-cert/WKLFKU3BZW7V)
