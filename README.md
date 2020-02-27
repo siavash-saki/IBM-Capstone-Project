@@ -8,15 +8,15 @@ Author: Siavash Saki
 
 Date: 14.12.2019
 
-The jupyter notebook containg code:
+[The jupyter notebook containg code](https://github.com/siavash-saki/IBM-Capstone-Project/blob/master/Notebooks/Capstone%20Project%20Final.ipynb):
 ```
  	Notebooks/Capstone Project Final.ipynb
 ```
-The report in PDF format:
+[The report in PDF format](https://github.com/siavash-saki/IBM-Capstone-Project/blob/master/Report/IBM-Data-Science-Capstone-Project.pdf):
 ```
  	Report/IBM-Data-Science-Capstone-Project.pdf
 ```
-Certificate:
+[Certificate](https://github.com/siavash-saki/IBM-Capstone-Project/blob/master/Certificate/Siavash_Saki.pdf):
 ```
  	Certificate/Siavash_Saki.pdf
 ```
